@@ -8,6 +8,7 @@ public class Student {
 	private Character gender;
 	private Integer age;
 	private String status;
+	static int a=100;
 
 	public String getStatus() {
 		return status;
